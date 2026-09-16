@@ -182,7 +182,6 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.rar.co.id/wp-content/uploads/2022/10/2.png" group-title="Nasional", Trans TV Digital
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312.m3u8
 #EXTINF:-1 tvg-id="BaliTV.id@SD" group-title="Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_balitv.png",Bali TV
 https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd
@@ -1183,7 +1182,6 @@ https://jmp2.uk/stvp-GBAJ400042T1
 https://jmp2.uk/stvp-GB2600018PD
 #EXTINF:-1 channel-id="GB4100003VP" tvg-id="GB4100003VP" tvg-chno="4963" tvg-name="Thrillers - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png" group-title="SAMSUNG",Thrillers - Rakuten TV
 https://jmp2.uk/stvp-GB4100003VP
-
 ##===========================
 ##         R O K U
 ##===========================
@@ -1339,7 +1337,6 @@ https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8?ads.
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814622/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Entertainment%2CDrama%2CWestern%2CGV%2CGD%2CEW&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=NBCUUniversalWesterns&ads.channelId=88814622&ads.channelName=nbcuuniversalwesterns_us&ads.csid=tcl2_us_nbcuuniversalwesterns_ssai&ads.genre=Western&ads.xumo_channelId=88814622&ads.xumo_channelName=NBCUUniversalWesterns&ads.xumo_contentId=3947&ads.xumo_contentName=NBCUUniversalWesterns&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3947&ads.xumo_providerName=NBCUUniversalWesterns&ads.xumo_streamId=88814622&declaredCC1Language=en&includeAssetTags=true
 #EXTINF:-1 tvg-id="WU298810" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/WU298810/15639522724248884-Xtremeoutdoor_-_TCL_-_3_files_SC_logo_color.jpg" group-title="TCL",Xtreme Outdoor Presented by HISTORY
 https://d2aefbad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1NraWxsc0FuZFRocmlsbHNfSExT/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=&ads.coppa=0&ads.custom=&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=&ads.us_privacy=1YN-&ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills
-
 ##===========================
 ##          X U M O
 ##===========================
@@ -1385,7 +1382,6 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99951411/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99991300/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991300&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Alice&ads.csid=xumo_[PLATFORM]_Alice_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,Romance,Documentary,Action,GV,Drama,GD,DO&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,FF,Entertainment,Romance,Documentary,Action,GV,Drama,GD,DO&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2492&ads.xumo_contentName=Alice&ads.xumo_providerId=2492&ads.xumo_providerName=Alice&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991300&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/300x300.webp?type=color_onBlack" group-title="XUMO",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_[PLATFORM]_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=[IFA_TYPE]
-
 # === RCTI+ SECTION ===
 # Updated: 2026-09-10 16:00:08
 
@@ -1393,22 +1389,18 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_cha
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789092007~hmac=5e97af169e85a198c053f94c5914e285cbe9dd0026f1fa6dd2f08e9f28c240cd
-
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789092007~hmac=449838c5c72bfcba9c5e68e05d3d87760c08bc8c17a01fb1b971ee85728607fb
-
 #EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789092008~hmac=71525782933ad889aca181ff5a197200eee04b9f511724bed039af8699e4ab5f
-
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789092008~hmac=60033344af00bb2a5a29cf2eb7ddc2689c5e754b7a11b7afe5e020b4de7240d7
-
 =========================================== sports ===============================================
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="Sports" tvg-id="beINSports2" tvg-name="beINSports2", beIN Sports 2 HD USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
