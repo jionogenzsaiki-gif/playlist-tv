@@ -2623,9 +2623,9 @@ https://stream.streamaudio.de:8000/teststream3
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
-<=================== MOVIES/SERIES KBTRTV =============================>
+<=================== MOVIES/SERIES =============================>
 
-#EXTINF:-1 type="movie" group-title="MOVIES/SERIES KBTRTV" tvg-logo="https://shorter.me/RdiDF", Avatar: Fire and Ash (2025)
+#EXTINF:-1 type="movie" group-title="MOVIES/SERIES" tvg-logo="https://shorter.me/RdiDF", Avatar: Fire and Ash (2025)
 https://cdn1.turboviplay.com/data5/6948689386043/6948689386043.m3u8
 
 
